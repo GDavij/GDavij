@@ -100,8 +100,11 @@ These are the concepts that guide my work and that I'm always deepening:
 <p align="left">
   <a href="https://www.credly.com/earner/earned/badge/b5630367-9181-4f1c-94e6-39f00d7ca925">
     <img src="./aws-academy-graduate-cloud-foundations-training-bad.png" alt="AWS ACADEMY CLOUD FOUNDATIONS CERTIFICATE" width="150">
-    <img src="./aws-academy-graduate-cloud-architecting-training-ba.png" alt="AWS ACADEMY CLOUD FOUNDATIONS CERTIFICATE" width="150">
+
   </a>
+<a href="https://www.credly.com/badges/52b378a0-1149-4406-ad26-1f6e6ae0cb9d"> 
+  <img src="./aws-academy-graduate-cloud-architecting-training-ba.png" alt="AWS ACADEMY CLOUD FOUNDATIONS CERTIFICATE" width="150">
+</a>
 </p>
 
 ---
