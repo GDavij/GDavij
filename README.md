@@ -39,6 +39,8 @@ Here's a summary of the tools and practices I use, ordered by my main focus:
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="Trivy" src="https://img.shields.io/badge/Trivy-32AB9F?style=for-the-badge&logo=trivy&logoColor=white">
+  <img alt="Ansible" src="https://img.shields.io/badge/ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326CE5?&style=for-the-badge&logo=kubernetes&logoColor=white">
 </p>
 
 ### Architecture, Processes & Methodologies
@@ -98,6 +100,7 @@ These are the concepts that guide my work and that I'm always deepening:
 <p align="left">
   <a href="https://www.credly.com/earner/earned/badge/b5630367-9181-4f1c-94e6-39f00d7ca925">
     <img src="./aws-academy-graduate-cloud-foundations-training-bad.png" alt="AWS ACADEMY CLOUD FOUNDATIONS CERTIFICATE" width="150">
+    <img src="./aws-academy-graduate-cloud-architecting-training-ba.png" alt="AWS ACADEMY CLOUD FOUNDATIONS CERTIFICATE" width="150">
   </a>
 </p>
 
